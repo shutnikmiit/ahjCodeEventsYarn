@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mu28pgp0vb2k79jv?svg=true)](https://ci.appveyor.com/project/shutnikmiit/ahjcodeeventsyarn)
